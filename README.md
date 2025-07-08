@@ -6,6 +6,14 @@
 
 1. three.js
 
+### Installing three.js
+
+[NPM]
+npm install --save three
+npm install --save-dev vite
+
+[Build]
+npx vite build
 
 ### three.js
 
